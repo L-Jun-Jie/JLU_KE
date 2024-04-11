@@ -1,0 +1,10 @@
+{
+    "C_Cpp.default.compilerPath": "/usr/bin/gcc",
+    "files.associations": {
+        "random": "cpp",
+        "unordered_map": "cpp",
+        "map": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp"
+    }
+}
